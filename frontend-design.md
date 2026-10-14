@@ -485,6 +485,6 @@ Examples:
 
 ## 15. Revision Notes
 
-| Date       | Change                                        | Author |
-| ---------- | --------------------------------------------- | ------ |
-| YYYY-MM-DD | Initial frontend design documentation created | Name   |
+| Date       | Change                                        | Author          |
+| ---------- | --------------------------------------------- | --------------- |
+| 2026-10-13 | Initial frontend design documentation created | Kelli Chatelain |
